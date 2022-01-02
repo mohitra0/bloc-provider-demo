@@ -1,9 +1,11 @@
 # india_today
 
-A new Flutter application.
+A provider bloc Example used to fetch data from api
 
 ## Getting Started
-
+  <div class="row">
+    <img src="https://user-images.githubusercontent.com/69755039/147877547-6608912f-757c-46b6-9561-d5dbdf5312ad.jpg" width="1080" height="850">
+  </div>
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
